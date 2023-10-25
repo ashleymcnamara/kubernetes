@@ -8,7 +8,7 @@ require (
 	github.com/emicklei/go-restful/v3 v3.9.0
 	github.com/gogo/protobuf v1.3.2
 	github.com/stretchr/testify v1.8.2
-	google.golang.org/grpc v1.54.0
+	google.golang.org/grpc v1.56.3
 	k8s.io/api v0.0.0
 	k8s.io/apimachinery v0.0.0
 	k8s.io/apiserver v0.0.0
@@ -42,7 +42,7 @@ require (
 	github.com/spf13/cobra v1.7.0 // indirect
 	github.com/spf13/pflag v1.0.5 // indirect
 	golang.org/x/net v0.9.0 // indirect
-	golang.org/x/oauth2 v0.6.0 // indirect
+	golang.org/x/oauth2 v0.7.0 // indirect
 	golang.org/x/sys v0.8.0 // indirect
 	golang.org/x/term v0.7.0 // indirect
 	golang.org/x/text v0.9.0 // indirect
